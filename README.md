@@ -1,3 +1,3 @@
 <div align="center">
-    <img src="https://miro.medium.com/max/1400/0*mfUNFSHyrXnH7ZKf">
+    <img src="https://wallpapercave.com/wp/wp5499525.jpg">
 </div>
