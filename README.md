@@ -59,8 +59,6 @@ Backend systems and infrastructure. 5+ years building production SaaS and web ap
 
 - **Backend roles:** Go, Python, system design, infrastructure challenges
 - **Startups:** Early-stage B2B/B2C products
-- **Europe:** Digital nomad visa (Spain), employment sponsorship, or relocation paths
-- **Remote:** USD 1.500+/month, EU timezone friendly
 
 ---
 
