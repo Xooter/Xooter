@@ -1,7 +1,7 @@
 # Joaquín Righetti
 
 **Backend Engineer** · Go · Python · PostgreSQL  
-**Based in:** Córdoba, Argentina · **Open to:** Remote roles (USD 1.500+, EU preferred)
+**Based in:** Córdoba, Argentina
 
 ---
 
